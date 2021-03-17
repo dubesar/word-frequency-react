@@ -1,0 +1,12 @@
+.text-area {
+  width: 70vw;
+  height: 40vh;
+}
+.inp-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.but {
+  margin-left: 62vw;
+}
